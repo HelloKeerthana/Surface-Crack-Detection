@@ -1,7 +1,3 @@
 Surface-Crack-Detection
-/
-README.md
-in
-main 
-
+LBP+Gabor Filters
  
